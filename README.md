@@ -34,6 +34,6 @@
 
 [Interacting with APIs](MLOps/InteractingWithAPIs) -> The repo has a Python script and Jupyter file to demonstrate using Python to interact with the <a href='https://www.ravelry.com/api#index'>Revelry API</a> via the requests library to retrieve information about different Revelry resources. It builds upon the work presented in a Medium <a href='https://medium.com/data-science-at-microsoft/how-to-access-an-api-for-first-time-api-users-879002f5f58d'>article</a>.
 
-[Keyword Search using Beautiful Soup](MLOps/keyword_search.ipynb) -> Using Beautiful Soup to extract keywords from an html page. Regular expression is used for keyword matching.
+[Keyword Search using Beautiful Soup](Miscellaneous/keyword_search.ipynb) -> Using Beautiful Soup to extract keywords from an html page. Regular expression is used for keyword matching.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
