@@ -20,9 +20,9 @@
 <!-- mlops -->
 ## MLOps
 
-[Compare Runs from WandB at PR](MLOps/WandBPR) -> YAML file to pull 'comparative runs report' between baseline model and another model (whose run ID is supplied) from Weights&Biases whenever a trigger (in this case '/wandb \<run id>\') is detected in a pull request. The automated comment with a link to the report is made using <a href='https://github.com/fastai/ghapi'>GHApi</a>.
+[Compare Runs from WandB at PR](MLOps/WandBPR) -> YAML file to pull 'comparative runs report' between baseline model and another model (whose run ID is supplied) from Weights&Biases whenever a trigger (in this case '/wandb \<run id>\') is detected in a pull request. The automated comment with a link to the report is made using <a href='https://github.com/fastai/ghapi'>GhApi</a>.
 
-[Automated commenting at PR using GHApi](MLOps/ghapi.yml) -> Code to automate commenting on a PR using <a href='https://github.com/fastai/ghapi'>GHApi</a>.
+[Automated commenting at PR using GhApi](MLOps/ghapi.yml) -> Code to automate commenting on a PR using <a href='https://github.com/fastai/ghapi'>GhApi</a>.
 
 
 [Scheduled Workflow](MLOps/scheduled.yml) -> Code to schedule a workflow that triggers every 15mins and echo's a random integer. 
